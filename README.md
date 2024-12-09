@@ -49,7 +49,7 @@ src
     │       └── web.controller 
     │       │   ├── CustomerController.java   # Endpoints REST para clientes 
     │       │   ├── OrderController.java      # Endpoints REST para pedidos 
-    │       │   └── PizzaController # Endpoints REST para pizzas 
+    │       │   └── PizzaController.java      # Endpoints REST para pizzas 
     │       └── PizzeriaApplication.java      # Clase principal de la aplicación 
     ├── resources 
     │    └── application.properties     # Configuración de la aplicación 
